@@ -2,7 +2,7 @@
 
 
 
-- 🥰 My name is Victor Loureiro, I'm a Front-End Developer and Student from Brazil
+- 🥰 My name is Victor Loureiro, I'm a Front-End Developer and student from Brazil
 - 😏 Studying and learning C#, Java, JavaScript, ReactJs e MySQL;
 - 🥳 Fun fact: I have 2 cats 🐱🐱
 
