@@ -2,9 +2,8 @@
 
 
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando C#, Java, JavaScript, ReactJs e MySQL;
-- 📫 Contate-me no email: victor.loureiro.silva@gmail.com 
+- 🔭 Hoje eu trabalho com Front-End
+- 🌱 Estudandoe e aprendendo C#, Java, JavaScript, ReactJs e MySQL;
 
  <div>
   <a href="https://github.com/victorloureiro1">
@@ -16,7 +15,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   
 </div>
 
