@@ -2,8 +2,8 @@
 
 
 
-- 🥰 Hoje eu trabalho com Front-End
-- 😏 Estudando e aprendendo C#, Java, JavaScript, ReactJs e MySQL;
+- 🥰 My name is Victor Loureiro, I'm a Front-End Developer and Student from Brazil
+- 😏 Studying and learning C#, Java, JavaScript, ReactJs e MySQL;
 
  <div>
   <a href="https://github.com/victorloureiro1">
