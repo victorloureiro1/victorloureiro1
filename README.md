@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje eu trabalho com Front-End
-- 🌱 Estudando e aprendendo C#, Java, JavaScript, ReactJs e MySQL;
+- 🥰 Hoje eu trabalho com Front-End
+- 😏 Estudando e aprendendo C#, Java, JavaScript, ReactJs e MySQL;
 
  <div>
   <a href="https://github.com/victorloureiro1">
