@@ -5,12 +5,16 @@
 - 🥰 My name is Victor Loureiro, I'm a Front-End Developer and student from Brazil;
 - 😏 Studying and learning C#, Java, JavaScript, Ruby and MySQL;
 - 🥳 Fun fact: I have 2 cats Josuelito and Smeagol 🐱🐱;
+- 
+##
 
  <div>
   <a href="https://github.com/victorloureiro1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorloureiro1&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorloureiro1&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorloureiro1&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorloureiro1&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
+ 
+ ##
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="vito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,9 +23,6 @@
   <img align="center" alt="vito-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
    <img align="center" alt="vito-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="right" alt="vito-yoda" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/42/Dancing_Red_Parrot.gif/revision/latest/scale-to-width-down/250?cb=20200226075200" width="70" height="70">
-  
-  
-  
 </div>
 
  ##
