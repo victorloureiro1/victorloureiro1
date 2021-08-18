@@ -5,7 +5,6 @@
 - 🥰 My name is Victor Loureiro, I'm a Front-End Developer and student from Brazil;
 - 😏 Studying and learning C#, Java, JavaScript, Ruby and MySQL;
 - 🥳 Fun fact: I have 2 cats Josuelito and Smeagol 🐱🐱;
-- 
 ##
 
  <div>
